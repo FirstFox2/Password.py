@@ -1,5 +1,5 @@
 # Password.py
-A simple python script that has a password checker. This will not do anythin more unless you tell it to.
+A simple python script that has a password checker. This will not do anything more unless you tell it to.
 
 How to Run
 
